@@ -1,0 +1,2 @@
+export const LOCATIONS_LIST = 'LOCATIONS_LIST';
+export const RECENT_SEARCH = 'RECENT_SEARCH';
