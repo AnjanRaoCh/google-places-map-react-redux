@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/google-places-map-react-redux/static/css/main.a0e451bc.css",
+    "main.js": "/google-places-map-react-redux/static/js/main.466521eb.js",
+    "static/js/787.af7b8093.chunk.js": "/google-places-map-react-redux/static/js/787.af7b8093.chunk.js",
+    "index.html": "/google-places-map-react-redux/index.html",
+    "main.a0e451bc.css.map": "/google-places-map-react-redux/static/css/main.a0e451bc.css.map",
+    "main.466521eb.js.map": "/google-places-map-react-redux/static/js/main.466521eb.js.map",
+    "787.af7b8093.chunk.js.map": "/google-places-map-react-redux/static/js/787.af7b8093.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0e451bc.css",
+    "static/js/main.466521eb.js"
+  ]
+}
